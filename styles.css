@@ -1,0 +1,19 @@
+* {
+  box-sizing: border-box;
+}
+
+h1,
+h2 {
+  text-align: center;
+}
+
+.article {
+  width: 50%;
+  padding: 10px;
+  display: inline-block;
+  text-align: justify;
+}
+
+.right {
+  float: right;
+}
